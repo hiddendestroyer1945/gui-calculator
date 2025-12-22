@@ -2,14 +2,14 @@
 
 gui-calculator is a tactile, hardware-inspired GUI calculator designed for Linux environments. Built with Python 3, it focuses on providing a professional "device-like" user experience with industrial gray-black aesthetics and full keyboard integration.
 
-🚀 Features
+🚀 Features:
 
 * **Tactile UI Design:** Features an embossed (raised) button layout and a sunken data display.
 * **Keyboard Synchronized:** Fully controllable via physical keyboard; maps "Enter" to results and "Backspace" to data correction.
 * **Linux Native:** Uses the Tkinter engine, ensuring a lightweight footprint without heavy dependencies.
 * **Industrial Theme:** Professional gray and black color palette for low-strain usage.
 
-📋 Prerequisites
+📋 Prerequisites:
 
 Before you begin, ensure you have the following installed on your Linux system:
 
