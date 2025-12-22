@@ -31,7 +31,7 @@ sudo apt install python3 git python3-tk
 
 Bash
 
-git clone <your-repository-link-here>
+git clone https://github.com/hiddendestroyer1945/gui-calculator.git
 cd gui-calculator/
 
     Run the Program Once the environment is ready, execute the script:
